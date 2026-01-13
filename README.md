@@ -1,6 +1,23 @@
 RutaGastoEFC 🚗💨
 RutaGastoEFC es una aplicación nativa para iOS diseñada para ayudar a conductores y empresas a calcular el coste real de sus trayectos. Utilizando la potencia de MapKit y SwiftData, la app permite visualizar rutas, ajustar tarifas por kilómetro y mantener un historial visual de los gastos de viaje.
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="ruta.PNG" width="200"><br>
+      <b>Mis Cuestionarios</b>
+    </td>
+    <td align="center">
+      <img src="trafico_real.PNG" width="200"><br>
+      <b>Generador IA</b>
+    </td>
+    <td align="center">
+      <img src="historial.PNG" width="200"><br>
+      <b>Vista Pregunta</b>
+    </td>
+  </tr>
+</table>
+
 ✨ Características
 Cálculo en Tiempo Real: Determina el coste de una ruta basándose en una tarifa por kilómetro ajustable (0.01€ - 1.00€+).
 
